@@ -23,7 +23,7 @@ The dataset contains avocado sales data across US regions, including prices, vol
 - `avocado_silver.parquet`: cleaned data with original categories
 - `avocado_silver_ml_ready.parquet`: data with encoded features ready for ML
 
-Saved to:/mnt/Avocado_Project/Silver/avocado_silver.parquet
+Saved to:/mnt/Avocado_Project/Silver/avocado_silver.parquet AND 
 /mnt/Avocado_Project/Silver/avocado_silver_ml_ready.parquet
 
 
@@ -74,9 +74,6 @@ Saved to:/mnt/Avocado_Project/Silver/avocado_silver.parquet
 - **Medallion Architecture (Bronze, Silver, Gold)**
 
 ---
-## 🧱 Recommended Folder Structure
-
-Avocado_Prediction_Project/ │ ├── notebooks/ │ ├── bronze_layer.ipynb │ ├── silver_layer.ipynb │ ├── gold_layer.ipynb │ └── ml_pipeline.ipynb │ ├── data/ │ └── avocado_dataset.csv (optional copy) │ ├── visualizations/ │ └── model_performance.png │ └── README.md
 
 ## 📫 Contact
 
